@@ -17,7 +17,7 @@ const xiaomiPhones = [
  { id: 12, model: 'Iphone 13', image: '../produtos/iphone13.jpg', fakePrice: (897.99 * number).toFixed(2), averagePrice: (897.99 * exchangeRate).toFixed(2) },
  { id: 13, model: 'Iphone 13 Pro', image: '../produtos/iphone13Pro.png', fakePrice: (932.99 * number).toFixed(2), averagePrice: (932.99 * exchangeRate).toFixed(2) },
  { id: 14, model: 'Iphone 14 Pro Max', image: '../produtos/iphone14ProMax.png', fakePrice: (1171.99 * number).toFixed(2), averagePrice: (1171.99 * exchangeRate).toFixed(2) },
- { id: 15, model: 'Iphone 15 Pro Max', image: '../produtos/iphone15ProMax.png', fakePrice: (1394 * number).toFixed(2), averagePrice: (1394.99 * exchangeRate).toFixed(2) },
+ { id: 15, model: 'Iphone 15 Pro Max', image: '../produtos/iphone15ProMax.jpg', fakePrice: (1394 * number).toFixed(2), averagePrice: (1394.99 * exchangeRate).toFixed(2) },
 
  { id: 16, model: 'Cabo CB-15-I', image: '../produtos/CB-15-I.png', fakePrice: (5.99 * number).toFixed(2), averagePrice: (4.99 * exchangeRate).toFixed(2) },
  { id: 17, model: 'Fone (com fio) FO-15-I', image: '../produtos/FO-15-I.png', fakePrice: (6.99 * number).toFixed(2), averagePrice: (5.99 * exchangeRate).toFixed(2) },
